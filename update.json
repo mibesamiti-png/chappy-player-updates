@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "packageId": "dev.chappy.chappy_player",
+  "version": "0.2.0",
+  "buildNumber": 5,
+  "releaseNotes": "Chappy Player の更新",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.0-b5/ChappyPlayer-arm64-v8a.apk",
+      "sha256": "dbfb0aca20f04340727fa030b076b871abd46620cf115b04bf8e2407051f26f5",
+      "sizeBytes": 18586721
+    },
+    {
+      "abi": "armeabi-v7a",
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.0-b5/ChappyPlayer-armeabi-v7a.apk",
+      "sha256": "7c6a3a100f6a9b2a723c287572323c78559fb1af43d53d6dcd29194e6c5af421",
+      "sizeBytes": 15956923
+    },
+    {
+      "abi": "x86_64",
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.0-b5/ChappyPlayer-x86_64.apk",
+      "sha256": "5cf11358c9ef7771a0c9535a6caf777972a5e3cc4d84d81155c1d64c48829326",
+      "sizeBytes": 20012640
+    }
+  ]
+}
