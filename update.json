@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "packageId": "dev.chappy.chappy_player",
-  "version": "0.2.2",
-  "buildNumber": 4008,
-  "buildSequence": 8,
-  "releaseNotes": "Chappy Player の更新",
+  "version": "0.2.3",
+  "buildNumber": 4009,
+  "buildSequence": 9,
+  "releaseNotes": "カメラ・マイク対応、権限確認と安全な停止処理、ホーム画面整理",
   "artifacts": [
     {
       "abi": "arm64-v8a",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.2-b8/ChappyPlayer-arm64-v8a.apk",
-      "sha256": "5191a243c72d24887ff67897e5226aec3c319d17cf8cdc54fc69949c02ab706c",
-      "sizeBytes": 18603833,
-      "androidVersionCode": 2008
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-arm64-v8a.apk",
+      "sha256": "5bdab0cc9e991e0f24de648ea0a627e8682993314f594384990f7fb4b18a74dd",
+      "sizeBytes": 18604045,
+      "androidVersionCode": 2009
     },
     {
       "abi": "armeabi-v7a",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.2-b8/ChappyPlayer-armeabi-v7a.apk",
-      "sha256": "18b3f409a3488ab12e6b75647c3c7a01c8b8175a478bed25c719ec67a29e10da",
-      "sizeBytes": 16023187,
-      "androidVersionCode": 1008
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-armeabi-v7a.apk",
+      "sha256": "ee2ce0d2d370d31713693fde4e874c469e068a5dbb9a103f2dcdd48699753ac8",
+      "sizeBytes": 16056167,
+      "androidVersionCode": 1009
     },
     {
       "abi": "x86_64",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.2-b8/ChappyPlayer-x86_64.apk",
-      "sha256": "fccbd1cfd18c022a7b187c91f3f120caf49fa3364b829f4b86db6bbb6814203c",
-      "sizeBytes": 20095296,
-      "androidVersionCode": 4008
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-x86_64.apk",
+      "sha256": "cef4bf60580696b7a48fb2a7a7141bb2908e2e7166d8176022340e4ee0e29d86",
+      "sizeBytes": 20095512,
+      "androidVersionCode": 4009
     }
   ]
 }
