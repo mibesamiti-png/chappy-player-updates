@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "packageId": "dev.chappy.chappy_player",
-  "version": "0.2.3",
-  "buildNumber": 4009,
-  "buildSequence": 9,
-  "releaseNotes": "カメラ・マイク対応、権限確認と安全な停止処理、ホーム画面整理",
+  "version": "0.2.4",
+  "buildNumber": 4010,
+  "buildSequence": 10,
+  "releaseNotes": "Androidネイティブマイク入力API（試験実装）、WebViewマイクの権限設定改善、波形・診断ログ機能を追加。マイクの実機動作は検証中。",
   "artifacts": [
     {
       "abi": "arm64-v8a",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-arm64-v8a.apk",
-      "sha256": "5bdab0cc9e991e0f24de648ea0a627e8682993314f594384990f7fb4b18a74dd",
-      "sizeBytes": 18604045,
-      "androidVersionCode": 2009
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.4-b10/ChappyPlayer-arm64-v8a.apk",
+      "sha256": "6a173e94ac7ead2ab8daf7f1a8abc228f56e9b19b2b546832469e126c10292f8",
+      "sizeBytes": 18604081,
+      "androidVersionCode": 2010
     },
     {
       "abi": "armeabi-v7a",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-armeabi-v7a.apk",
-      "sha256": "ee2ce0d2d370d31713693fde4e874c469e068a5dbb9a103f2dcdd48699753ac8",
-      "sizeBytes": 16056167,
-      "androidVersionCode": 1009
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.4-b10/ChappyPlayer-armeabi-v7a.apk",
+      "sha256": "766a7b27306cd91afefff4e6c513a81e3dcc2992a02d949dcb20430875507101",
+      "sizeBytes": 16056203,
+      "androidVersionCode": 1010
     },
     {
       "abi": "x86_64",
-      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.3-b9/ChappyPlayer-x86_64.apk",
-      "sha256": "cef4bf60580696b7a48fb2a7a7141bb2908e2e7166d8176022340e4ee0e29d86",
-      "sizeBytes": 20095512,
-      "androidVersionCode": 4009
+      "url": "https://github.com/mibesamiti-png/chappy-player-updates/releases/download/v0.2.4-b10/ChappyPlayer-x86_64.apk",
+      "sha256": "279e20ca0f0060e56084f32b573839d21fc7afb9e921ae1f88eaa65835cec2a3",
+      "sizeBytes": 20095544,
+      "androidVersionCode": 4010
     }
   ]
 }
